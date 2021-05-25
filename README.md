@@ -1,2 +1,2 @@
 # practice
-Here are some codes that I do on a daily basis for personal practice and experimentation.
+Here are some codes that is updated on a daily basis for personal practice, build, and experimentation.
